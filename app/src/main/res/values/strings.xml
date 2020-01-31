@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneCallApp</string>
+    <string name="call">Call</string>
+    <string name="my_number">My number</string>
+    <string name="phone_number">Phone number</string>
+    <string name="_08033574202">08033574202</string>
+    <string name="phone_no">Phone no</string>
+
+</resources>
